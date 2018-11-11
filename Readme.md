@@ -1,3 +1,3 @@
 **Blog**  
-Install composer and rum below command.  
+Install composer and run below command.  
 `composer update`  
